@@ -73,7 +73,7 @@ export default function Intro() {
           <br />
           I&apos;m a <span className="font-bold">
             Frontend Developer
-          </span> with <span className="font-bold">2 years</span> of experience.
+          </span> and <span className="font-bold"> Web Designer </span>.
           I enjoy learning new things.
         </motion.h1>
         <motion.div
